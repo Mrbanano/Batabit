@@ -1,0 +1,16 @@
+.main-exchange-container{
+    border: 2px solid red;
+    width: 100%;
+    height: auto;
+    padding-bottom: 30px;
+    padding-top: 80px;
+    text-align: center;
+}
+
+.main-exchange-container--title{
+    border: 2px solid gray;
+    width: 90%;
+    min-width: 288px;
+    max-width: 900px;
+    margin: 0 auto;
+}
