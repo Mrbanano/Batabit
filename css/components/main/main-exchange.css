@@ -7,10 +7,36 @@
     text-align: center;
 }
 
+.main-exchange-container--Image{
+    width: 200px;
+    height: 200px;
+    margin: 0 auto;
+    margin-bottom: 50px;
+    background-image: url('../../../assets/icon/Bitcoin.svg');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
 .main-exchange-container--title{
-    border: 2px solid gray;
     width: 90%;
     min-width: 288px;
     max-width: 900px;
     margin: 0 auto;
+}
+
+.main-exchange-container h2{
+    margin-bottom: 30px;
+    font-size: 2.4rem;
+    line-height: 2.6rem;
+    font-weight: 700;
+    color: var(--black);
+}
+
+.main-exchange-container p{
+    margin-bottom: 30px;
+    font-size: 1.4rem;
+    line-height: 1.6rem;
+    font-weight: 300;
+    color: #757575;
 }
