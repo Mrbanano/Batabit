@@ -6,6 +6,8 @@
 5 otros 
 */
 
+@import './components/header.css';
+
 :root{
         /*colores*/
         --font-sans:'DM Sans', sans-serif;
