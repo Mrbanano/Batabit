@@ -1,13 +1,6 @@
-/*
-1 posicionamiento
-2 modelo de caja 
-3 typografia
-4 temas visuales
-5 otros 
-*/
-
 @import './components/header.css';
 @import './components/main.css';
+@import './components/footer.css';
 
 
 :root{
