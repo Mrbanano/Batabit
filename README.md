@@ -19,7 +19,7 @@
 
 <br>
 
-**Google-Clone** is a static website developed with HTML5 and CSS3 consists of the model of the main page of the most famous search engine, with responsible design, this project is created with 3 components, and the styles are separated by each component.
+**Batatabit** is a landing page inspired by the company of the same name, this page complies with the principle of models first for mobile devices, applying good practices and knowledge of html and css
 
 <div align="center">
 
