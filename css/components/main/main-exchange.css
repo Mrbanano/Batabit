@@ -1,7 +1,6 @@
 @import './main-exchange-tables.css';
 
 .main-exchange-container{
-    border: 2px solid red;
     width: 100%;
     height: auto;
     padding-bottom: 30px;
