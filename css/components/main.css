@@ -1,5 +1,6 @@
 @import './main/main-exchange.css';
 @import './main/main-product-detail.css';
+@import './main/banner.css';
 
 main{
     width: 100%;
