@@ -31,5 +31,10 @@
 }
 
 .pricing-container-slider{
-
+    display: flex;
+    flex-direction: row;
+    gap: 40px;
+    overflow-x: scroll;
+    overscroll-behavior-x:contain;
+    scroll-snap-type: x proximity;
 }

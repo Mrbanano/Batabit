@@ -1,5 +1,6 @@
 .pricing-container-card{
  position: relative;
+ scroll-snap-align: center;
  width: 70%;
  min-width: 230px;
  max-width: 300px;
