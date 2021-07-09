@@ -1,3 +1,5 @@
+@import './main-exchange-tables.css';
+
 .main-exchange-container{
     border: 2px solid red;
     width: 100%;
@@ -25,7 +27,7 @@
     margin: 0 auto;
 }
 
-.main-exchange-container h2{
+.main-exchange-container .main-exchange-container--h2{
     margin-bottom: 30px;
     font-size: 2.4rem;
     line-height: 2.6rem;
@@ -33,7 +35,7 @@
     color: var(--black);
 }
 
-.main-exchange-container p{
+.main-exchange-container .main-exchange-container--description{
     margin-bottom: 30px;
     font-size: 1.4rem;
     line-height: 1.6rem;
